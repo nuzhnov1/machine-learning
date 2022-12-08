@@ -1,0 +1,16 @@
+{
+  "type": "<class 'sklearn.linear_model._base.LinearRegression'>",
+  "forNormalize": false,
+  "forStandartize": false,
+  "features": [
+    "AT",
+    "V",
+    "AP",
+    "RH"
+  ],
+  "target": [
+    "PE"
+  ],
+  "R2": 0.9299811866229668,
+  "RMSE": 4.511805991635782
+}

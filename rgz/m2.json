@@ -1,0 +1,16 @@
+{
+  "type": "<class 'keras.engine.sequential.Sequential'>",
+  "forNormalize": true,
+  "forStandartize": false,
+  "features": [
+    "AT",
+    "V",
+    "AP",
+    "RH"
+  ],
+  "target": [
+    "PE"
+  ],
+  "R2": 0.9338318281612158,
+  "RMSE": 4.385989738660738
+}
